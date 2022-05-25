@@ -25,11 +25,11 @@
 				<span></span> <span></span> Submit
 			</a>
 		</form>
-		<c:if test="${not empty checkLogin}">
+	</div>
+	<c:if test="${not empty checkLogin}">
 			<script>
 				alert("Login Failed: Your user ID or password is incorrect");
 			</script>
 		</c:if>
-	</div>
 </body>
 </html>
