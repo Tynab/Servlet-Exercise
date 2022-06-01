@@ -22,7 +22,6 @@ public class LoginController extends HttpServlet {
 		if (userName.equals("admin") && password.equals("123456")) {
 			resp.sendRedirect(req.getContextPath() + "/welcome");
 		} else {
-			req.setAttribute("checkLogin","failed");
 			req.getRequestDispatcher("login.jsp").forward(req, resp);
 		}
 	}
