@@ -8,5 +8,5 @@
 
 ## HÌNH ẢNH DEMO
 <p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C5622AQHoAfZVgP8omA/feedshare-shrink_2048_1536/0/1658996859403?e=1661990400&v=beta&t=3lFhST-ZQnbDesY31wB6Xc7a-V-bLwLurCwjn7mkFxw"></img>
+<img src="https://raw.githubusercontent.com/Tynab/Servlet-Exercise/master/pic/0.jpg"></img>
 </p>
