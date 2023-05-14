@@ -7,6 +7,6 @@
         - Nếu không đúng thì quay lại trang đăng nhập.
 
 ## HÌNH ẢNH DEMO
-<p align="center">
-<img src="https://raw.githubusercontent.com/Tynab/Servlet-Exercise/master/pic/0.jpg"></img>
+<p align='center'>
+<img src='pic/0.jpg'></img>
 </p>
